@@ -10,13 +10,13 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
   </a>
 <p align="center">
-  <a href="https://github.com/MRK-YT/MT-Rose-Bot-Model/stargazers">
-    <img src="https://img.shields.io/github/stars/MRK-YT/MT-Rose-Bot-Model?style=social">
+  <a href="https://github.com/crazycasharea/MT-Rose-Bot-Model/stargazers">
+    <img src="https://img.shields.io/github/stars/crazycashareaT/MT-Rose-Bot-Model?style=social">
 
   </a>
   
-  <a href="https://github.com/MRK-YT/MT-Rose-Bot-Model/fork">
-    <img src="https://img.shields.io/github/forks/MRK-YT/MT-Rose-Bot-Model?label=Fork&style=social">
+  <a href="https://github.com/crazycasharea/MT-Rose-Bot-Model/fork">
+    <img src="https://img.shields.io/github/forks/crazycasharea/MT-Rose-Bot-Model?label=Fork&style=social">
 
   </a>  
 </p>
@@ -41,7 +41,7 @@ To deploy me on heroku, use below button:
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Rose-Bot-Model)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/crazycasharea/MT-Rose-Bot-Model)
 
 There is also a [tutorial video](https://youtu.be/wKL90i3cjPw) if you want any help on creating heroku clone.
 
